@@ -24,11 +24,11 @@ theoretical_mean = (a+b)/2;
 
 % Part 2: Sample standard deviation 
 sample_std = std(x);
-% The theoretical standard deviation 
+% The theoretical 
 theoretical_std = sqrt((b-a)^2/12);
 
 % Part 3: Bias of the estimators
-% Initialise the two estimators
+% initialise the two estimators
 m_estimator = [];
 std_estimator = [];
 
@@ -109,7 +109,7 @@ for i = 1:length(N)
     set(legend1,'FontSize',14,'Interpreter','latex');
 end
 
-%% 2. Different number of histogram bins
+% 2. Different number of histogram bins
 N = 10000;
 nbins = [1 20 50];
 clear figure;

@@ -9,7 +9,7 @@
 % Returns:   est_pdf    - Estimated pdf of the signal                     %
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
 
-function [est_pdf] = pdf(sample_sig)
+function [ est_pdf ] = pdf( sample_sig)
 
     est_pdf = histogram(sample_sig,'Normalization','pdf');
     

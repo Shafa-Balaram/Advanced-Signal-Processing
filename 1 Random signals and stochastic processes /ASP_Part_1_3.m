@@ -4,6 +4,7 @@
 %                        Original version - March 2018                    %                        
 %                                Shafa Balaram                            %
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
+
 close all; clear all; clc;
 
 % Part 1: Testing the pdf function
@@ -74,8 +75,8 @@ figure(3) = figure('Color',[1 1 1]); grid on; hold on;
 x1=rand(1,500)-0.5;
 x2=rand(1,500)+0.5;
 % Check
-mean(x1);
-mean(x2);
+mean(x1)
+mean(x2)
 
 % estimated pdf of x1
 subplot(3,1,1)
