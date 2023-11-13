@@ -1,6 +1,6 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
-%                        Original version - March 2018                    %
+%                         Advanced Signal Processing                      %
+%                                  March 2018                             %  
 %                                Shafa Balaram                            %
 % The avpgm function takes in a column vector rr and computes its averaged%
 % periodogram.                                                            % 

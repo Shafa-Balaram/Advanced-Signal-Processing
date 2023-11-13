@@ -1,6 +1,6 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
-%                        Original version - March 2018                    %
+%                          Advanced Signal Processing                     %
+%                                  March 2018                             %
 %                                Shafa Balaram                            %
 % The pgm function takes in a column vector x and computes its estimated  %
 % PSD based on FFT as Px.                                                 % 

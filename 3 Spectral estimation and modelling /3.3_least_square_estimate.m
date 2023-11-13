@@ -1,7 +1,7 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
+%                          Advanced Signal Processing                     %
 %          3.3 The Least Square Estimation (LSE) of AR Coefficients       %
-%                        Original version - March 2018                    %                        
+%                                  March 2018                             %                        
 %                                Shafa Balaram                            %
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 
