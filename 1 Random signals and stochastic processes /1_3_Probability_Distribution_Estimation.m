@@ -1,7 +1,7 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
+%                           Advanced Signal Processing                    %
 %                  1.3 Estimation of probability distributions            %
-%                        Original version - March 2018                    %                        
+%                                  March 2018                             %                        
 %                                Shafa Balaram                            %
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 

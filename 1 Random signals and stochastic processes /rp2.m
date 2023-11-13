@@ -1,6 +1,6 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
-%                        Original version - March 2018                    %
+%                          Advanced Signal Processing                     %
+%                                  March 2018                             %
 %                                Shafa Balaram                            %
 % Function to generate an ensemble of M realisations of N samples for     %
 % stochastic process 2.                                                   % 

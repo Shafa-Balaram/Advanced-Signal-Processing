@@ -1,6 +1,6 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
-%                        Original version - March 2018                    %
+%                          Advanced Signal Processing                     %
+%                                  March 2018                             %
 %                                Shafa Balaram                            %
 % Function to estimate the probability density function of an input sample% 
 % signal using its normalised histogram of values.                        %
