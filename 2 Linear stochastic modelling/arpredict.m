@@ -1,6 +1,6 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
-%                        Original version - March 2018                    %
+%                          Advanced Signal Processing                     %
+%                                  March 2018                             %
 %                                Shafa Balaram                            %
 % The arpredict function predicts the normalised sunspot series using the %
 % ar coefficients obtained from aryule. The predicted data, xhat, and the %

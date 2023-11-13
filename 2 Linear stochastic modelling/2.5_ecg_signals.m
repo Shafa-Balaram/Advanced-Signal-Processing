@@ -1,7 +1,7 @@
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
-%                       EE3.08 Advanced Signal Processing                 %
+%                           Advanced Signal Processing                    %
 %               2.5 Real World Signals: ECG from iAmp experiment          %
-%                        Original version - March 2018                    %                        
+%                                  March 2018                             %                        
 %                                Shafa Balaram                            %
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 
