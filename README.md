@@ -1,2 +1,2 @@
-# EE3.08-Advanced-Signal-Processing
-Statistical signal processing on real-world, biomedical signals such as ECG and speech recordings in Matlab R2017a with particular emphasis on classical and modern estimation theory, parametric and nonparametric modelling, time series analysis, least squares methods and basics of adaptive signal processing. For the purpose of the coursework, the biomedical signals were recorded by the repository’s owner.
+# Advanced Signal Processing 
+Coursework focused on statistical signal processing, specifically applied to real-world biomedical signals like ECG and speech recordings. The emphasis is on both classical and modern estimation theory, parametric and nonparametric modeling, time series analysis, least squares methods, and the fundamentals of adaptive signal processing. All codes are implemented and tested using Matlab R2017a.
